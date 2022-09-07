@@ -56,7 +56,6 @@ html {
 .sidebar {
   text-align: center;
   /* padding: 2rem 1rem; */
-  padding: 0 1rem;
   color: rgba(255,255,255,.5);
   background-color: #202020;
 }
@@ -74,6 +73,7 @@ html {
 /* Sidebar links */
 .sidebar a {
   color: #fff;
+  padding-bottom: 800px
 }
 
 /* About section */
