@@ -1,9 +1,10 @@
 ---
 layout: post
-title: Videsh Narine
+title: Welcome
 ---
 
-Hyde is a brazen two-column [Jekyll](http://jekyllrb.com) theme that pairs a prominent sidebar with uncomplicated content. It's based on [Poole](http://getpoole.com), the Jekyll butler.
+Hi welcome to my website as you can see my name is Videsh Narine and I attend Queens College as a CS Major. I am 
+expected to graduate in Spring 2023 so I am on a job hunt as most seniors are. 
 
 ### Built on Poole
 
