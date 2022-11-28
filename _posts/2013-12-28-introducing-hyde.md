@@ -24,5 +24,5 @@ Here are some classes that stood out in my time at QC so far.
 * CS331 Database Systems with Peter Heller gave me a solid foundation in T-SQL and Relational Databases
 * CS340 Operating Systems with John Svadlenka showed me low-level programming in C and how it relates to the abstraction higher-level languages     have today
 * CS320 Theory of Computation with Bojana Obrenic highlighted how programming languages are context-free grammars with their own different rules to follow and emphasised that crtiical thinking is the greatest tool for programmers.
-
+* * CS381 Applied Data Science with Jonathan Gryak gave me a strong background with Machine Learning models for both classification and regression as well as the math behind how these models actually work which lead an even greater understanding. Furthermore, I learned how to look at a dataset, ask questions and perform my own analysis based on the results of my ML models.
 Thanks!
